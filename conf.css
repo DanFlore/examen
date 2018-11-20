@@ -1,0 +1,104 @@
+body,td,th {
+	font-family: Arial;
+	font-size: 100%;
+	color: #51b2bd;
+	}
+	body {
+	font-family: Palatino Linotype;
+	background-color: #fdfdfd;
+	}
+
+	#head {
+	font-size: 125%;
+	text-align: center;
+	//border: 1px solid red;
+	width: 100%;
+	height: 25%;
+    }
+    #main {
+        float: center;
+        font-size: 120%;
+        text-align: left;
+        width: 95%;
+        height: auto;
+        }
+       
+            p{
+                color:rgb(34, 196, 236);
+                text-align: center;
+            }
+            #p1{
+                color:rgb(111, 34, 236);
+                text-align: center;
+            }
+            #p2{
+                font-size: 70%;
+                color:rgb(111, 34, 236);
+                text-align: right;
+            }
+            #p3{
+                color:rgb(12, 90, 136);
+                text-align: center;
+                font-size: 40%;
+            }
+            #maps{
+                margin-left: 25%;
+                float:center;
+                width: 40%;
+                height: 40%;
+              
+            }
+            .foto1 { 
+                float: center; 
+                width: 30%;
+                }
+                .foto2 { 
+                 
+                    float: center; 
+                    width: 70%;
+                    }
+                    .foto3 { 
+                      
+                        float: right; 
+                        width: 10%;
+                        }
+            #menu{
+                 margin-left: 25%;
+                }
+            ul#menu li{
+                 display:inline;
+                 }
+            ul#menu {
+                 padding: 20px;
+                    }
+                    
+            ul#menu li {
+                display: inline;
+                    }
+                    
+            ul#menu li a {
+                float: center;
+                background-color:rgb(84, 239, 250);
+                color: rgb(13, 132, 230);
+                padding: 10px 20px;
+                text-decoration: none;
+                border-radius: 4px 4px 0 0;
+                    }
+                    
+            ul#menu li a:hover {
+                background-color:rgb(17, 102, 151);
+                    }
+      hr{
+        border-top: 4px solid;
+        border-block-end-color: #2323D9 ;
+	    color: #51b2bd;
+         }
+     #footer {
+         background-color: blue;
+         font-size: 150%;
+         background-color: rgb(60, 151, 194);
+         text-align: left;
+         margin-top: 10%;
+         width: 100%;
+        height: 10%;
+         }
